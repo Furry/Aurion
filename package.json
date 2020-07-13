@@ -1,0 +1,8 @@
+{
+  "name": "dream-generator",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/furry/Dream+Generator",
+  "author": "me",
+  "license": "MIT"
+}
