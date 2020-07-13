@@ -1,3 +1,4 @@
 # So developers don't get the pre-compield junk.
 node_modules/
 dist/
+yarn.lock
