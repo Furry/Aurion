@@ -1,0 +1,9 @@
+{
+    "request": {
+        "url": "https://mysite.com/register",
+        "method": "post",
+        "useragent": "random",
+        "proxy": true,
+        "resJsonPath": ""
+    }
+}
